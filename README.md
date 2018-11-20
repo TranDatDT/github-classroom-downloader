@@ -1,11 +1,11 @@
 # github-classroom-downloader
 Github Classroom Downloader help you download repo of all teams without ghost teams
 
-##+++REQUIREMENT+++
+## +++REQUIREMENT+++
 - Python 3.6+
 - Git CLI
 
-##+++HOW TO USE+++
+## +++HOW TO USE+++
 - To change your access_token, replace it with yours in config.py
 - Install dependencies: python -m pip install -r requirements.txt
 - Run:
